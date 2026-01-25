@@ -15,7 +15,9 @@
 ## Harga .. Jutaan
 
 ## Harga 4 Jutaan
-1. [ADVAN WorkMate AMD Ryzen 5 3500U / Intel i3-1215U](https://shopee.co.id/-BEST-SELLER-ADVAN-Laptop-WorkMate-AMD-Ryzen-5-3500U-Intel-i3-1215U-14-Inch-FHD-16-10-IPS-8GB-256GB-Upgradable-WIFI-5-Garansi-Resmi-1-Tahun-i.919692407.44210886492?extraParams=%7B%22display_model_id%22%3A285914571025%7D)
+1. ADVAN WorkMate AMD Ryzen 5 3500U
+   Tokopedia : [Rp4.799.000](https://tk.tokopedia.com/ZSaUEeEEn/)
+   Sophee : [Rp4.599.000](https://s.shopee.co.id/5filvddsM3)
    > RAM bisa diupgrade, Chrge menggunakan type-c, Storage SSD (lebih cepet dari HDD)
    Spesifikasi:
    - Size    : 314.4*217.6*19.3mm
@@ -39,7 +41,9 @@
      - 1X Micro SD Card Slot
      - 1X Audio Jack 3.5mm
    - Free WINDOWS 11 HOME ORIGINAL
-2. [ZYREX D-TECH RYZEN 5 3500U RAM 16GB SSD 256GB WINDOWS 11 HD](https://shopee.co.id/Zyrex-D-Tech-Ryzen-5-3500-16GB-256GB-14.0-W11-i.1543389959.44366807989?extraParams=%7B%22display_model_id%22%3A271387230684%2C%22model_selection_logic%22%3A3%7D&sp_atk=1bdb5e04-1c21-40e6-862b-b05f87f53d6f&xptdk=1bdb5e04-1c21-40e6-862b-b05f87f53d6f)
+3. ZYREX D-TECH RYZEN 5 3500U RAM 16GB SSD 256GB WINDOWS 11 HD
+   Tokopedia : [Rp4.999.000](https://tk.tokopedia.com/ZSaUKyX7h/)
+   Sophee : [Rp4.949.000](https://s.shopee.co.id/7KqzuqgxOP)
    > RAM bawaan udah 16GB dan masih bisa diupgrade, storage udah SSD NVME (cepet) bisa diupgrade
    Spesifikasi:
    - Processor : Ryzen 5 3500
@@ -62,7 +66,9 @@
    - Berat : Starting at 1.80 kg
 
 ## Harga 5 Jutaan
-1. [Advan WorkPro Lite Intel i3-1220P 8GB SSD 256GB 14 Inch FHD IPS](https://shopee.co.id/Advan-WorkPro-Lite-Intel-i3-1220P-8GB-SSD-256GB-14-Inch-FHD-IPS-Windows-11-Original-GARANSI-RESMI-i.318218543.26156381228?extraParams=%7B%22display_model_id%22%3A258720381750%2C%22model_selection_logic%22%3A3%7D&sp_atk=90a6df4d-d8b2-4bc1-8aee-e76161500cbe&xptdk=90a6df4d-d8b2-4bc1-8aee-e76161500cbe)
+1. Advan WorkPro Lite Intel i3-1220P 8GB SSD 256GB 14 Inch FHD IPS
+   Tokopedia : [Rp5.199.000](https://tk.tokopedia.com/ZSaUKCgNY/)
+   Sophee : [Rp5.499.000](https://s.shopee.co.id/AABBGLm6rB)
    Spesifikasi:
    - Processor : Intel® Core i3-1220P Up To 4,4Ghz 10 Core 12 Threads
    - Graphic : Intel® UHD Graphics
