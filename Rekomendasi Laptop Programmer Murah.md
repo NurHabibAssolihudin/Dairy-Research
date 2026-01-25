@@ -1,0 +1,87 @@
+# REKOMENDASI LAPTOP UNTUK PROGRAMMER TINGKAT PELAJAR *2026*
+*Disclaimer:*
+> Rekomendasi di sini saya buat berdasarkan pengalaman dan pengetahuan saya sendiri untuk membantu bag programmer pemula yang baru mulai belajar di jenjang SMK
+> 
+> *Kenapa saya khusus-kan bagi pelajar smk?*
+> 1. Kebutuhan di dunia kerja cukup beragam sesuai dengan industri dan role masing masing.
+> 2. Pelajar SMK biasanya tidak akan jauh jauh dari pemrograman dasar & web
+> 3. Cukup (walau mungkin agak terasa berat untuk beberapa teknologi) untuk pengembangan aplikasi desktop dan mobile **(bagi harga 4-5 jutaan)**
+>
+> *Laptop ini tidak disarankan jika:*
+> 1. Kebutuhannya untuk dame development dengan unity atau bahkan unreal engine
+> 2. Memiliki keperluan untuk mengedit video atau rendering berat
+> 3. Ingin menjalankan sistem yang membutuhkan core, ram, dan storage besar seperti container orchestrator, atau virtual machine
+
+## Harga .. Jutaan
+
+## Harga 4 Jutaan
+1. [ADVAN WorkMate AMD Ryzen 5 3500U / Intel i3-1215U](https://shopee.co.id/-BEST-SELLER-ADVAN-Laptop-WorkMate-AMD-Ryzen-5-3500U-Intel-i3-1215U-14-Inch-FHD-16-10-IPS-8GB-256GB-Upgradable-WIFI-5-Garansi-Resmi-1-Tahun-i.919692407.44210886492?extraParams=%7B%22display_model_id%22%3A285914571025%7D)
+   > RAM bisa diupgrade, Chrge menggunakan type-c, Storage SSD (lebih cepet dari HDD)
+   Spesifikasi:
+   - Size    : 314.4*217.6*19.3mm
+   - Weight   : <1.4kg
+   - CPU    : AMD Ryzen 5 3500U
+   - GPU    : AMD Radeon Rx Vega 8 Graphics
+   - Display  : 14" FHD+ (1920*1200) 16:10 IPS
+   - RAM    : 8GB DD4 2666MT/s (masih ada 1 Slot RAM kosong)
+   - Memory   : 256GB SSD
+   - WIFI    : 802.11b/g/n/ac
+   - Bluetooth   : 5.0
+   - Camera  : 1.9MP 720HD
+   - Battery   : 6000mAH 7.6V
+   - Adapter  : PD 45W
+   - Port Variants  :
+     - 2X USB 3.2 Type A
+     - 1X USB 2.0 Type A
+     - 1X HDMI
+     - 1X USB Type C ( Charging Only )
+     - 1X USB Type C Full Function
+     - 1X Micro SD Card Slot
+     - 1X Audio Jack 3.5mm
+   - Free WINDOWS 11 HOME ORIGINAL
+2. [ZYREX D-TECH RYZEN 5 3500U RAM 16GB SSD 256GB WINDOWS 11 HD](https://shopee.co.id/Zyrex-D-Tech-Ryzen-5-3500-16GB-256GB-14.0-W11-i.1543389959.44366807989?extraParams=%7B%22display_model_id%22%3A271387230684%2C%22model_selection_logic%22%3A3%7D&sp_atk=1bdb5e04-1c21-40e6-862b-b05f87f53d6f&xptdk=1bdb5e04-1c21-40e6-862b-b05f87f53d6f)
+   > RAM bawaan udah 16GB dan masih bisa diupgrade, storage udah SSD NVME (cepet) bisa diupgrade
+   Spesifikasi:
+   - Processor : Ryzen 5 3500
+   - Graphics : AMD Graphic
+   - Display :  14 inch FHD IPS
+   - Memory : 16 GB DDR5
+   - Storage : 256GB NVME (Upgradeable)
+   - Battery : 42 Whrs
+   - Webcam : 720p HD camera With privacy shutter
+   - Keyboard :  Backlit
+   - Operating System :Windows 11
+   - Network : Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth® 5.2 Wireless Card
+   - Standart Port :
+     - 1x DC-in
+     - 1x RJ45
+     - 1x HDMI out 1.4
+     - 2x USB 3.2 Gen 1 Type-A
+     - 1x SD Card
+     - 1x USB 3.2 Gen 1 Type-C
+   - Berat : Starting at 1.80 kg
+
+## Harga 5 Jutaan
+1. [Advan WorkPro Lite Intel i3-1220P 8GB SSD 256GB 14 Inch FHD IPS](https://shopee.co.id/Advan-WorkPro-Lite-Intel-i3-1220P-8GB-SSD-256GB-14-Inch-FHD-IPS-Windows-11-Original-GARANSI-RESMI-i.318218543.26156381228?extraParams=%7B%22display_model_id%22%3A258720381750%2C%22model_selection_logic%22%3A3%7D&sp_atk=90a6df4d-d8b2-4bc1-8aee-e76161500cbe&xptdk=90a6df4d-d8b2-4bc1-8aee-e76161500cbe)
+   Spesifikasi:
+   - Processor : Intel® Core i3-1220P Up To 4,4Ghz 10 Core 12 Threads
+   - Graphic : Intel® UHD Graphics
+   - Memory : 8GB DDR4
+   - Storage : 256GB SSD NVMe PCIe 3.0
+   - Display : 14.0 Inch FHD IPS 1920*1080
+   - Operating System : Windows 11
+   - Camera : 720 HD with privacy shutter
+   - Wifi 802.11b/g/n/ac
+   - Bluetooth 5.1
+   - Battery : 7.6V/ 6000mAh 45.6Wh
+   - Port  :
+     - 1x Charging Ø3.5*1.35mm
+     - 1x Type C: DP,PD,USB3.2 GEN 1
+     - 1x Standard HDMI 1.4
+     - 1x Audio Ø3.5mm Combo
+     - 1x TF card
+     - 1x Kensington Lock
+     - 1x USB 2.0
+   - Build Material : Metal + ABS
+   - Dimension : 322.6*210.2*19.8mm
+   - Weight : ≤1.5kg
